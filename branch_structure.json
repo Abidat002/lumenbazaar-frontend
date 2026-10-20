@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "security/issue-14-hide-pubnet-controls-while-mainnet-is-disabled"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "security/issue-14-hide-pubnet-controls-while-mainnet-is-disabled": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "security/issue-14-hide-pubnet-controls-while-mainnet-is-disabled"
+  ]
+}
